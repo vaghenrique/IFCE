@@ -14,7 +14,7 @@ public class Numero {
         if(valor == 0){
             return 1;
         }else{
-            return valor * fatorial(valor - 1);
+            return valor * fatorial(valor -1);
         }
     }
     
